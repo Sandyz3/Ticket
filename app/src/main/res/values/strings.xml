@@ -1,0 +1,27 @@
+<resources>
+    <array name="asal_kota">
+        <item>Bandung</item>
+        <item>Bali</item>
+        <item>Solo</item>
+        <item>Jogja</item>
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Padang</item>
+        <item>Papua</item>
+    </array>
+
+    <array name="provinces">
+        <item>Bandung</item>
+        <item>Bali</item>
+        <item>Solo</item>
+        <item>Jogja</item>
+        <item>Semarang</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Padang</item>
+        <item>Papua</item>
+    </array>
+</resources>
